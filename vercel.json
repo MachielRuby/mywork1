@@ -1,0 +1,5 @@
+{
+  "buildCommand": "cd myengine && npm install && npm run build",
+  "outputDirectory": "myengine/dist",
+  "installCommand": "cd myengine && npm install"
+}
